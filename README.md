@@ -21,10 +21,15 @@ CSV Dataset
 The dashboard includes:
 
 Total Netflix titles
+
 Movies vs TV Shows
+
 Content by release year
+
 Content by rating
+
 Content by genre
+
 Top countries by number of titles
 
 🎯 Project Objective
