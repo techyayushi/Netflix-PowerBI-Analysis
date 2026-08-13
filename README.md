@@ -9,9 +9,13 @@ The dashboard explores Netflix content based on content type, release year, rati
 🛠️ Tools Used
 
 Power BI
+
 Data Visualization
+
 Data Analysis
+
 CSV Dataset
+
 📈 Dashboard Insights
 
 The dashboard includes:
