@@ -7,6 +7,7 @@ This project uses Power BI to analyze Netflix movies and TV shows and present ke
 The dashboard explores Netflix content based on content type, release year, ratings, genres, and countries.
 
 🛠️ Tools Used
+
 Power BI
 Data Visualization
 Data Analysis
